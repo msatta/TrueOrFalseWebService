@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding='UTF-8' ?>
+<dataset>
+    <question
+            id="1"
+            text="Is this a question?"
+            answer="true"
+            />
+    <question
+            id="2"
+            text="Is blue the yellow submarine?"
+            answer="false"
+            />
+    <question
+            id="3"
+            text="Is the pen on the table?"
+            answer="true"
+            />
+    <user />
+</dataset>

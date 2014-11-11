@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='UTF-8' ?>
+<dataset>
+    <user
+            id="1"
+            uid="100"
+            name="User1"
+            BESTSCORE="10" />
+    <user
+            id="2"
+            uid="200"
+            name="User2"
+            BESTSCORE="20" />
+    <question />
+</dataset>
